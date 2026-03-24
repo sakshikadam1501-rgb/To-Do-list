@@ -8,10 +8,15 @@ Tasks are saved in a file to ensure persistence between program runs.
 ✨ Features
 
 • Add new tasks
+
 • Mark tasks as completed
+
 • Delete tasks
+
 • Task storage using JSON file
+
 • Menu-driven interface
+
 • Colored terminal output
 
 ▶ Run
