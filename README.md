@@ -21,6 +21,6 @@ Tasks are saved in a file to ensure persistence between program runs.
 
 ▶ Run
 
-python todo_app/todo.py
+python todo.py
 
 git clone https://github.com/sakshikadam1501-rgb/To-Do-list
